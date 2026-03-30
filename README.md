@@ -1,1 +1,1 @@
-# Ai-school-handbooko
+# Ai-school-handbook
